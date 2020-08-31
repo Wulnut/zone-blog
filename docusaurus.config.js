@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'My Site',
+  title: 'My Zone',
   tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -31,7 +31,7 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      links: [
+/*       links: [
         {
           title: 'Docs',
           items: [
@@ -75,7 +75,7 @@ module.exports = {
             },
           ],
         },
-      ],
+      ], */
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
